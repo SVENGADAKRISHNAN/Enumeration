@@ -89,7 +89,8 @@ Calculate C class domain network ranges and perform whois queries on them (threa
 Perform reverse lookups on netranges (C class or/and whois netranges) (threaded).
 Write to domain_ips.txt file ip-blocks.
 This program is useful for pentesters, ethical hackers and forensics experts. It also can be used for security tests.
-![image](https://github.com/AasrithSairam/Enumeration/assets/139331438/20b01ba9-87cb-436f-a1f7-97701151ea22)
+![etht exp3out3](https://github.com/SVENGADAKRISHNAN/Enumeration/assets/147473084/8daedf03-b923-42a7-8659-17bc4ce98c59)
+
 
 
 ##smtp-user-enum
@@ -97,7 +98,8 @@ Username guessing tool primarily for use against the default Solaris SMTP servic
 
 
 In metasploit list all the usernames using head /etc/passwd or cat /etc/passwd:
-![image](https://github.com/AasrithSairam/Enumeration/assets/139331438/b3031c33-89d3-445b-89ab-ade955dfa207)
+![etht exp3out4](https://github.com/SVENGADAKRISHNAN/Enumeration/assets/147473084/a1fffeea-3007-40f9-95de-230a54121152)
+
 
 select any username in the first column of the above file and check the same
 ![image](https://github.com/AasrithSairam/Enumeration/assets/139331438/bfca1263-569a-4115-be65-e54c3a6a63e8)
