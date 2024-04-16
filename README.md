@@ -1,4 +1,4 @@
-# Enumeration
+![etht exp3out1](https://github.com/SVENGADAKRISHNAN/Enumeration/assets/147473084/60edc2e9-8432-4601-98cc-9798d1588c70)# Enumeration
 Enumeration Techniques
 
 # Explore Google hacking and enumeration 
@@ -69,9 +69,9 @@ Perform common SRV Record Enumeration
 Top level domain expansion
 ## OUTPUT:
 
-![image](https://github.com/AasrithSairam/Enumeration/assets/139331438/12e3696d-b4ce-41a0-b9e4-b41c02d7f714)
+![etht exp3out1](https://github.com/SVENGADAKRISHNAN/Enumeration/assets/147473084/483a9d90-4cdd-40c9-b542-d2fd4913366a)
 
-
+![etht exp3out2](https://github.com/SVENGADAKRISHNAN/Enumeration/assets/147473084/6a6e2ec4-a1f6-4610-b463-3655d8806cd6)
 
 
 
