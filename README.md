@@ -1,4 +1,4 @@
-![etht exp3out1](https://github.com/SVENGADAKRISHNAN/Enumeration/assets/147473084/60edc2e9-8432-4601-98cc-9798d1588c70)# Enumeration
+# Enumeration
 Enumeration Techniques
 
 # Explore Google hacking and enumeration 
