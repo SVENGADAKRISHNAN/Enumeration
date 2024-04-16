@@ -32,22 +32,30 @@ Google hacking, also known as Google dorking, is a technique that involves using
 
 site: This operator allows you to search for pages that are within a specific website or domain. For example, "site:example.com" would search for pages that are on the example.com domain.
 Following searches for all the sites that is in the domain yahoo.com
+![etht exp3,1](https://github.com/SVENGADAKRISHNAN/Enumeration/assets/147473084/4ab39462-0868-4302-8000-186656a332c5)
+
+
 
 filetype: This operator allows you to search for files of a specific type. For example, "filetype:pdf" would search for all PDF files.
 Following searches for pdf file in the domain yahoo.com
-
+![etht exp3,2](https://github.com/SVENGADAKRISHNAN/Enumeration/assets/147473084/3381e402-651b-46c5-82ae-f33ccf78f906)
 
 
 intext: This operator allows you to search for pages that contain specific text within the body of the page. For example, "intext:password" would search for pages that contain the word "password" within the body of the page.
-
+![etht exp3,3](https://github.com/SVENGADAKRISHNAN/Enumeration/assets/147473084/4dee2347-8ef1-444e-942c-cbb229d7d143)
 
 inurl: This operator allows you to search for pages that contain specific text within the URL. For example, "inurl:admin" would search for pages that contain the word "admin" within the URL.
+![etht exp3,4](https://github.com/SVENGADAKRISHNAN/Enumeration/assets/147473084/94005ce1-d13a-4af7-b717-ff1b4bbb669f)
+
 
 intitle: This operator allows you to search for pages that contain specific text within the title tag. For example, "intitle:index of" would search for pages that contain "index of" within the title tag.
+![etht exp3,5](https://github.com/SVENGADAKRISHNAN/Enumeration/assets/147473084/c272d806-9f9f-4d15-a8f5-31396634b4d7)
 
 link: This operator allows you to search for pages that link to a specific URL. For example, "link:example.com" would search for pages that link to the example.com domain.
+![etht exp3,6](https://github.com/SVENGADAKRISHNAN/Enumeration/assets/147473084/ea7c7133-2dce-4cc8-81b0-ff3c22c0a813)
 
 cache: This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
+![etht exp3,7](https://github.com/SVENGADAKRISHNAN/Enumeration/assets/147473084/15c583ab-e84f-4fae-8083-575177b07939)
 
  
 #DNS Enumeration
@@ -61,6 +69,7 @@ Perform common SRV Record Enumeration
 Top level domain expansion
 ## OUTPUT:
 
+![image](https://github.com/AasrithSairam/Enumeration/assets/139331438/12e3696d-b4ce-41a0-b9e4-b41c02d7f714)
 
 
 
@@ -80,6 +89,7 @@ Calculate C class domain network ranges and perform whois queries on them (threa
 Perform reverse lookups on netranges (C class or/and whois netranges) (threaded).
 Write to domain_ips.txt file ip-blocks.
 This program is useful for pentesters, ethical hackers and forensics experts. It also can be used for security tests.
+![image](https://github.com/AasrithSairam/Enumeration/assets/139331438/20b01ba9-87cb-436f-a1f7-97701151ea22)
 
 
 ##smtp-user-enum
@@ -87,8 +97,10 @@ Username guessing tool primarily for use against the default Solaris SMTP servic
 
 
 In metasploit list all the usernames using head /etc/passwd or cat /etc/passwd:
+![image](https://github.com/AasrithSairam/Enumeration/assets/139331438/b3031c33-89d3-445b-89ab-ade955dfa207)
 
 select any username in the first column of the above file and check the same
+![image](https://github.com/AasrithSairam/Enumeration/assets/139331438/bfca1263-569a-4115-be65-e54c3a6a63e8)
 
 
 #Telnet for smtp enumeration
@@ -97,7 +109,8 @@ telnet <host address> 25 to connect
 and issue appropriate commands
   
  ##Output
-  
+  ![image](https://github.com/AasrithSairam/Enumeration/assets/139331438/9feccdec-2d60-477c-834e-abbcf6c2a7f1)
+
   
 
 ## nmap –script smtp-enum-users.nse <hostname>
@@ -106,6 +119,7 @@ The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server 
 
 
 ## OUTPUT:
+![image](https://github.com/AasrithSairam/Enumeration/assets/139331438/162ebffd-4871-41f9-91d4-528252e21331)
 
 
 ## RESULT:
